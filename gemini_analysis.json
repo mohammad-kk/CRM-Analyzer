@@ -1,0 +1,34 @@
+{
+  "profiles": [
+    {
+      "username": "stompgrip",
+      "is_car_profile": false,
+      "is_business_profile": true,
+      "followers_count": 5810
+    },
+    {
+      "username": "tucker.pitching",
+      "is_car_profile": false,
+      "is_business_profile": false,
+      "followers_count": 2233
+    },
+    {
+      "username": "los_fashen",
+      "is_car_profile": false,
+      "is_business_profile": true,
+      "followers_count": 13638
+    },
+    {
+      "username": "itzkirb",
+      "is_car_profile": true,
+      "is_business_profile": false,
+      "followers_count": 25671
+    },
+    {
+      "username": "alejandrosirajr2k11",
+      "is_car_profile": false,
+      "is_business_profile": false,
+      "followers_count": 1102
+    }
+  ]
+}

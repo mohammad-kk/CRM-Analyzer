@@ -1,0 +1,702 @@
+[
+  {
+    "username": "bubs",
+    "full_name": "Darius Monsef",
+    "followers_count": 13443,
+    "following_count": 486,
+    "created_at": "2025-02-27T10:08:38.952694+00:00"
+  },
+  {
+    "username": "macey_m3",
+    "full_name": "\ud835\udc0c\ud835\udfd1 \ud835\udc05\ud835\udc00\ud835\udc15 \ud83d\udc69\ud83c\udffc",
+    "followers_count": 18325,
+    "following_count": 7494,
+    "created_at": "2025-02-27T10:05:50.392227+00:00"
+  },
+  {
+    "username": "parishilton",
+    "full_name": "Paris Hilton",
+    "followers_count": 26867645,
+    "following_count": 7501,
+    "created_at": "2025-02-26T22:00:58.709601+00:00"
+  },
+  {
+    "username": "johnnxxts",
+    "full_name": "",
+    "followers_count": 20987,
+    "following_count": 1039,
+    "created_at": "2025-02-26T22:00:58.444954+00:00"
+  },
+  {
+    "username": "jonny.grunwald",
+    "full_name": "Jonny Grunwald",
+    "followers_count": 72659,
+    "following_count": 1682,
+    "created_at": "2025-02-26T21:59:41.37865+00:00"
+  },
+  {
+    "username": "brodyjenner",
+    "full_name": "Brody Jenner",
+    "followers_count": 3729926,
+    "following_count": 2907,
+    "created_at": "2025-02-26T21:59:41.133093+00:00"
+  },
+  {
+    "username": "rwb.wheels",
+    "full_name": "OFFICIAL RWB WHEELS",
+    "followers_count": 13012,
+    "following_count": 366,
+    "created_at": "2025-02-26T21:59:40.903943+00:00"
+  },
+  {
+    "username": "chimamalko",
+    "full_name": "Chima Malko",
+    "followers_count": 50294,
+    "following_count": 1070,
+    "created_at": "2025-02-26T21:59:40.752744+00:00"
+  },
+  {
+    "username": "wtfsf415",
+    "full_name": "Asian Voices",
+    "followers_count": 37495,
+    "following_count": 3453,
+    "created_at": "2025-02-26T21:59:40.592244+00:00"
+  },
+  {
+    "username": "illest",
+    "full_name": "Official Illest Brand",
+    "followers_count": 107522,
+    "following_count": 601,
+    "created_at": "2025-02-26T21:59:40.25934+00:00"
+  },
+  {
+    "username": "noahbeck",
+    "full_name": "Noah Beck",
+    "followers_count": 7831167,
+    "following_count": 1764,
+    "created_at": "2025-02-26T21:59:39.94408+00:00"
+  },
+  {
+    "username": "bastaakanoggano",
+    "full_name": "\u0412\u0430\u0441\u0438\u043b\u0438\u0438\u0306 \u0412\u0430\u043a\u0443\u043b\u0435\u043d\u043a\u043e",
+    "followers_count": 5103488,
+    "following_count": 499,
+    "created_at": "2025-02-26T21:59:39.649714+00:00"
+  },
+  {
+    "username": "tommyfury",
+    "full_name": "Tommy TNT Fury",
+    "followers_count": 5279093,
+    "following_count": 870,
+    "created_at": "2025-02-26T21:59:39.411369+00:00"
+  },
+  {
+    "username": "lala",
+    "full_name": "LA LA",
+    "followers_count": 14960849,
+    "following_count": 1986,
+    "created_at": "2025-02-26T21:59:39.055664+00:00"
+  },
+  {
+    "username": "alecmonopoly",
+    "full_name": "Alec Monopoly",
+    "followers_count": 1433559,
+    "following_count": 47,
+    "created_at": "2025-02-26T21:59:38.679215+00:00"
+  },
+  {
+    "username": "vipstylecars",
+    "full_name": "VIPStyleCars",
+    "followers_count": 21576,
+    "following_count": 2027,
+    "created_at": "2025-02-26T21:59:38.463621+00:00"
+  },
+  {
+    "username": "bre_tiesi",
+    "full_name": "Bre Tiesi",
+    "followers_count": 1706604,
+    "following_count": 1807,
+    "created_at": "2025-02-26T21:59:38.238516+00:00"
+  },
+  {
+    "username": "shalizi",
+    "full_name": "Moe Shalizi",
+    "followers_count": 294762,
+    "following_count": 1851,
+    "created_at": "2025-02-26T21:59:37.955554+00:00"
+  },
+  {
+    "username": "offsetyrn",
+    "full_name": "OFFSET",
+    "followers_count": 25017727,
+    "following_count": 999,
+    "created_at": "2025-02-26T21:59:37.746669+00:00"
+  },
+  {
+    "username": "lilyrose_depp",
+    "full_name": "Lily-Rose Depp",
+    "followers_count": 8573759,
+    "following_count": 617,
+    "created_at": "2025-02-26T21:59:37.519267+00:00"
+  },
+  {
+    "username": "tintpros_platinum.auto.wraps",
+    "full_name": "Vehicle Wraps Tint PPF Ceramic Coating Detailing",
+    "followers_count": 18665,
+    "following_count": 7416,
+    "created_at": "2025-02-26T21:59:37.141314+00:00"
+  },
+  {
+    "username": "sammisweetheart",
+    "full_name": "Samantha \u201cSammi Sweetheart\"",
+    "followers_count": 3958254,
+    "following_count": 291,
+    "created_at": "2025-02-26T21:59:36.964492+00:00"
+  },
+  {
+    "username": "tt.lambo",
+    "full_name": "BZ",
+    "followers_count": 4341,
+    "following_count": 120,
+    "created_at": "2025-02-26T21:59:36.761287+00:00"
+  },
+  {
+    "username": "cloydthebarber",
+    "full_name": "Cloyd Trinidad",
+    "followers_count": 3076,
+    "following_count": 790,
+    "created_at": "2025-02-26T21:59:36.539245+00:00"
+  },
+  {
+    "username": "jamessofronas",
+    "full_name": "James Sofronas",
+    "followers_count": 13426,
+    "following_count": 1033,
+    "created_at": "2025-02-26T21:59:36.300407+00:00"
+  },
+  {
+    "username": "travisbarker",
+    "full_name": "travisbarker",
+    "followers_count": 8567188,
+    "following_count": 229,
+    "created_at": "2025-02-26T21:59:35.838179+00:00"
+  },
+  {
+    "username": "sushiobsessedjoanne",
+    "full_name": "Joanne | \ud83d\udccd707, SF Bay Area Foodie",
+    "followers_count": 5000,
+    "following_count": 1446,
+    "created_at": "2025-02-26T21:59:35.653687+00:00"
+  },
+  {
+    "username": "msashleyvee",
+    "full_name": "Ashley Vee \u2665\ufe0f\ud83c\uddf5\ud83c\udded",
+    "followers_count": 1344742,
+    "following_count": 600,
+    "created_at": "2025-02-26T21:59:35.435846+00:00"
+  },
+  {
+    "username": "mikenorng",
+    "full_name": "Mike Norng",
+    "followers_count": 21701,
+    "following_count": 512,
+    "created_at": "2025-02-26T21:59:35.191105+00:00"
+  },
+  {
+    "username": "rwb_akiba",
+    "full_name": "",
+    "followers_count": 14084,
+    "following_count": 421,
+    "created_at": "2025-02-26T21:59:35.025508+00:00"
+  },
+  {
+    "username": "edwestwick",
+    "full_name": "Ed Westwick",
+    "followers_count": 11366709,
+    "following_count": 115,
+    "created_at": "2025-02-26T21:59:34.708513+00:00"
+  },
+  {
+    "username": "emmaroberts",
+    "full_name": "Emma Roberts",
+    "followers_count": 20597317,
+    "following_count": 2759,
+    "created_at": "2025-02-26T21:59:34.377543+00:00"
+  },
+  {
+    "username": "poosh",
+    "full_name": "Poosh",
+    "followers_count": 4661769,
+    "following_count": 141,
+    "created_at": "2025-02-26T21:59:34.108635+00:00"
+  },
+  {
+    "username": "_growinguprussian_",
+    "full_name": "Growing Up Russian",
+    "followers_count": 155321,
+    "following_count": 543,
+    "created_at": "2025-02-26T21:59:33.879193+00:00"
+  },
+  {
+    "username": "rwb_australia",
+    "full_name": "Chern Wong",
+    "followers_count": 113547,
+    "following_count": 577,
+    "created_at": "2025-02-26T21:59:33.649697+00:00"
+  },
+  {
+    "username": "maaya_orido_559",
+    "full_name": "Maaya Orido",
+    "followers_count": 135320,
+    "following_count": 896,
+    "created_at": "2025-02-26T21:59:33.3216+00:00"
+  },
+  {
+    "username": "sneakerheadinthebay",
+    "full_name": "Alexander Walter",
+    "followers_count": 151193,
+    "following_count": 1969,
+    "created_at": "2025-02-26T21:59:33.106486+00:00"
+  },
+  {
+    "username": "madisonbeer",
+    "full_name": "Madison Beer",
+    "followers_count": 39204808,
+    "following_count": 998,
+    "created_at": "2025-02-26T21:59:32.85188+00:00"
+  },
+  {
+    "username": "smotraru",
+    "full_name": "Smotra.ru",
+    "followers_count": 1167935,
+    "following_count": 30,
+    "created_at": "2025-02-26T21:59:32.54383+00:00"
+  },
+  {
+    "username": "lambrosteve",
+    "full_name": "Lambros \u00ae\ufe0f",
+    "followers_count": 86932,
+    "following_count": 2481,
+    "created_at": "2025-02-26T21:59:32.239629+00:00"
+  },
+  {
+    "username": "drinksprinter",
+    "full_name": "SPRINTER",
+    "followers_count": 150097,
+    "following_count": 1,
+    "created_at": "2025-02-26T21:59:31.949051+00:00"
+  },
+  {
+    "username": "alexandracooper",
+    "full_name": "Alex Cooper",
+    "followers_count": 3428930,
+    "following_count": 627,
+    "created_at": "2025-02-26T21:59:31.70923+00:00"
+  },
+  {
+    "username": "greenjellybean97",
+    "full_name": "E Lam",
+    "followers_count": 23016,
+    "following_count": 3413,
+    "created_at": "2025-02-26T21:59:31.511736+00:00"
+  },
+  {
+    "username": "mikkel.jpeg",
+    "full_name": "Mikkel The Miraculous",
+    "followers_count": 12375,
+    "following_count": 7041,
+    "created_at": "2025-02-26T21:59:31.155319+00:00"
+  },
+  {
+    "username": "thejoshaltman",
+    "full_name": "Josh Altman",
+    "followers_count": 841944,
+    "following_count": 1144,
+    "created_at": "2025-02-26T21:59:30.757834+00:00"
+  },
+  {
+    "username": "lilyjcollins",
+    "full_name": "Lily Collins",
+    "followers_count": 29139134,
+    "following_count": 593,
+    "created_at": "2025-02-26T21:59:30.372738+00:00"
+  },
+  {
+    "username": "chrissyteigen",
+    "full_name": "chrissy teigen",
+    "followers_count": 41789670,
+    "following_count": 1537,
+    "created_at": "2025-02-26T21:59:30.003588+00:00"
+  },
+  {
+    "username": "michelemorrone",
+    "full_name": "Michele Morrone",
+    "followers_count": 15813813,
+    "following_count": 90,
+    "created_at": "2025-02-26T21:59:29.722995+00:00"
+  },
+  {
+    "username": "taykailani",
+    "full_name": "",
+    "followers_count": 4648,
+    "following_count": 909,
+    "created_at": "2025-02-26T21:59:29.435351+00:00"
+  },
+  {
+    "username": "donatella_versace",
+    "full_name": "Donatella Versace",
+    "followers_count": 12245355,
+    "following_count": 532,
+    "created_at": "2025-02-26T21:59:29.059235+00:00"
+  },
+  {
+    "username": "jycruz305",
+    "full_name": "Jeiffer Cruz",
+    "followers_count": 44082,
+    "following_count": 2274,
+    "created_at": "2025-02-26T21:59:28.811394+00:00"
+  },
+  {
+    "username": "katyperry",
+    "full_name": "KATY PERRY",
+    "followers_count": 204700295,
+    "following_count": 801,
+    "created_at": "2025-02-26T21:59:28.42961+00:00"
+  },
+  {
+    "username": "timatiofficial",
+    "full_name": "13",
+    "followers_count": 20215371,
+    "following_count": 380,
+    "created_at": "2025-02-26T21:59:27.986549+00:00"
+  },
+  {
+    "username": "brookeschofield",
+    "full_name": "Brooke",
+    "followers_count": 840522,
+    "following_count": 1662,
+    "created_at": "2025-02-26T21:59:27.606494+00:00"
+  },
+  {
+    "username": "madelame",
+    "full_name": "Madelaine Petsch",
+    "followers_count": 23585288,
+    "following_count": 494,
+    "created_at": "2025-02-26T21:59:27.163903+00:00"
+  },
+  {
+    "username": "space_8",
+    "full_name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u041a\u043e\u0432\u0430\u043b\u0451\u0432",
+    "followers_count": 27084,
+    "following_count": 298,
+    "created_at": "2025-02-26T21:59:26.11014+00:00"
+  },
+  {
+    "username": "hella.basa",
+    "full_name": "Hella.Basa",
+    "followers_count": 354400,
+    "following_count": 97,
+    "created_at": "2025-02-26T21:55:12.854282+00:00"
+  },
+  {
+    "username": "mightykills",
+    "full_name": "marvin king \u2297",
+    "followers_count": 71055,
+    "following_count": 7448,
+    "created_at": "2025-02-26T21:55:12.573019+00:00"
+  },
+  {
+    "username": "drink818",
+    "full_name": "818 Tequila | Eight Reserve by 818",
+    "followers_count": 1195495,
+    "following_count": 221,
+    "created_at": "2025-02-26T21:55:12.295476+00:00"
+  },
+  {
+    "username": "skkn",
+    "full_name": "SKKN BY KIM",
+    "followers_count": 5600744,
+    "following_count": 39,
+    "created_at": "2025-02-26T21:55:12.08282+00:00"
+  },
+  {
+    "username": "ryan.der",
+    "full_name": "Ryan Der",
+    "followers_count": 31454,
+    "following_count": 743,
+    "created_at": "2025-02-26T21:55:11.764013+00:00"
+  },
+  {
+    "username": "atianadelahoya",
+    "full_name": "Atiana De La Hoya",
+    "followers_count": 582823,
+    "following_count": 569,
+    "created_at": "2025-02-26T21:55:11.541036+00:00"
+  },
+  {
+    "username": "robkardashianofficial",
+    "full_name": "Rob Kardashian, dream daddy",
+    "followers_count": 3210160,
+    "following_count": 3821,
+    "created_at": "2025-02-26T21:55:11.331004+00:00"
+  },
+  {
+    "username": "trini.yaya",
+    "full_name": "\ud83c\uddf9\ud83c\uddf9Emmanuel Webb\ud83c\uddf9\ud83c\uddf9",
+    "followers_count": 2130,
+    "following_count": 1786,
+    "created_at": "2025-02-26T21:55:11.162044+00:00"
+  },
+  {
+    "username": "xlsince2003",
+    "full_name": "BongRobbie",
+    "followers_count": 35956,
+    "following_count": 4255,
+    "created_at": "2025-02-26T21:55:10.865846+00:00"
+  },
+  {
+    "username": "zackbia",
+    "full_name": "ZACK BIA",
+    "followers_count": 586785,
+    "following_count": 4343,
+    "created_at": "2025-02-26T21:55:10.308389+00:00"
+  },
+  {
+    "username": "tsiveseli",
+    "full_name": "Eli Tsives",
+    "followers_count": 47169,
+    "following_count": 1075,
+    "created_at": "2025-02-26T21:55:09.950808+00:00"
+  },
+  {
+    "username": "greenvalleywindowtint",
+    "full_name": "Green Valley Window Tint",
+    "followers_count": 5882,
+    "following_count": 3791,
+    "created_at": "2025-02-26T21:55:09.621727+00:00"
+  },
+  {
+    "username": "000magazine",
+    "full_name": "000 Magazine",
+    "followers_count": 52364,
+    "following_count": 1096,
+    "created_at": "2025-02-26T21:52:25.495735+00:00"
+  },
+  {
+    "username": "svjjacob",
+    "full_name": "Svjacob",
+    "followers_count": 2932,
+    "following_count": 1,
+    "created_at": "2025-02-26T21:52:25.319017+00:00"
+  },
+  {
+    "username": "eddie_abasolo_show",
+    "full_name": "Eddie Abasolo",
+    "followers_count": 96383,
+    "following_count": 2388,
+    "created_at": "2025-02-26T21:52:25.048203+00:00"
+  },
+  {
+    "username": "michael.lee_____",
+    "full_name": "Michael Lee",
+    "followers_count": 23501,
+    "following_count": 1931,
+    "created_at": "2025-02-26T21:52:24.801289+00:00"
+  },
+  {
+    "username": "samuel_hubinette",
+    "full_name": "Samuel Hu\u0308binette",
+    "followers_count": 38758,
+    "following_count": 1235,
+    "created_at": "2025-02-26T21:52:24.460261+00:00"
+  },
+  {
+    "username": "speedramps",
+    "full_name": "Joseph Jacobo",
+    "followers_count": 6037,
+    "following_count": 1839,
+    "created_at": "2025-02-26T21:52:24.19928+00:00"
+  },
+  {
+    "username": "fatlace",
+    "full_name": "Fatlace",
+    "followers_count": 60970,
+    "following_count": 1154,
+    "created_at": "2025-02-26T21:52:23.836686+00:00"
+  },
+  {
+    "username": "chrisgwheeler",
+    "full_name": "Chris Wheeler",
+    "followers_count": 35644,
+    "following_count": 481,
+    "created_at": "2025-02-26T21:52:23.632883+00:00"
+  },
+  {
+    "username": "nathaniel.galicia",
+    "full_name": "Nathaniel Galicia | San Francisco Barber | Educator",
+    "followers_count": 2163,
+    "following_count": 2329,
+    "created_at": "2025-02-26T21:52:23.375287+00:00"
+  },
+  {
+    "username": "reallyjaf",
+    "full_name": "Jaf Ali",
+    "followers_count": 7797,
+    "following_count": 1816,
+    "created_at": "2025-02-26T21:52:23.097727+00:00"
+  },
+  {
+    "username": "jm7.9",
+    "full_name": "",
+    "followers_count": 10732,
+    "following_count": 306,
+    "created_at": "2025-02-26T21:52:23.021741+00:00"
+  },
+  {
+    "username": "oliviapierson",
+    "full_name": "Olivia Pierson",
+    "followers_count": 4028912,
+    "following_count": 543,
+    "created_at": "2025-02-26T21:52:22.705094+00:00"
+  },
+  {
+    "username": "88mini06",
+    "full_name": "Tanaka",
+    "followers_count": 6603,
+    "following_count": 4533,
+    "created_at": "2025-02-26T21:52:22.444872+00:00"
+  },
+  {
+    "username": "listermanpeter",
+    "full_name": "\u041f\u0435\u0308\u0442\u0440 \u041b\u0438\u0441\u0442\u0435\u0440\u043c\u0430\u043d",
+    "followers_count": 1093540,
+    "following_count": 7478,
+    "created_at": "2025-02-26T21:52:22.163525+00:00"
+  },
+  {
+    "username": "paulwesley",
+    "full_name": "Paul Wesley",
+    "followers_count": 13046469,
+    "following_count": 1492,
+    "created_at": "2025-02-26T21:52:21.914541+00:00"
+  },
+  {
+    "username": "ryanmikols",
+    "full_name": "Ryan Mikols",
+    "followers_count": 61405,
+    "following_count": 161,
+    "created_at": "2025-02-26T21:52:21.730214+00:00"
+  },
+  {
+    "username": "photo_by_malyshev",
+    "full_name": "Nikita Malyshev",
+    "followers_count": 20645,
+    "following_count": 146,
+    "created_at": "2025-02-26T21:52:21.493936+00:00"
+  },
+  {
+    "username": "fairbird_sdrperformance",
+    "full_name": "Vlad Fairbird",
+    "followers_count": 20953,
+    "following_count": 781,
+    "created_at": "2025-02-26T21:52:21.18663+00:00"
+  },
+  {
+    "username": "vinnynazerian",
+    "full_name": "Vinny Nazerian",
+    "followers_count": 79668,
+    "following_count": 1835,
+    "created_at": "2025-02-26T21:52:20.976346+00:00"
+  },
+  {
+    "username": "garet_thomas_",
+    "full_name": "Garet Thomas",
+    "followers_count": 44242,
+    "following_count": 1488,
+    "created_at": "2025-02-26T21:52:20.596948+00:00"
+  },
+  {
+    "username": "jheneaiko",
+    "full_name": "Jhene\u0301 Aiko Efuru Chilombo \ud83d\udd2e",
+    "followers_count": 17306897,
+    "following_count": 546,
+    "created_at": "2025-02-26T21:52:20.227085+00:00"
+  },
+  {
+    "username": "foodgod",
+    "full_name": "FOODGOD\u00ae",
+    "followers_count": 3755817,
+    "following_count": 89,
+    "created_at": "2025-02-26T21:52:19.855597+00:00"
+  },
+  {
+    "username": "chrisharikian",
+    "full_name": "Chris Harikian",
+    "followers_count": 106470,
+    "following_count": 977,
+    "created_at": "2025-02-26T21:52:19.631672+00:00"
+  },
+  {
+    "username": "mens_video",
+    "full_name": "\u041f\u0435\u0440\u0432\u044b\u0439 \u041c\u0443\u0436\u0441\u043a\u043e\u0439 \u2022 \u0412\u0438\u0434\u0435\u043e \ud83d\ude0e\ud83d\udc4a",
+    "followers_count": 3124739,
+    "following_count": 89,
+    "created_at": "2025-02-26T21:52:19.430092+00:00"
+  },
+  {
+    "username": "legorage",
+    "full_name": "\u041c\u0430\u043a\u0441\u0438\u043c \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432",
+    "followers_count": 58348,
+    "following_count": 465,
+    "created_at": "2025-02-26T21:52:19.154357+00:00"
+  },
+  {
+    "username": "poprecoverysystems",
+    "full_name": "Mental Health, Nutrition/Fitness, Wound Care & Concierge",
+    "followers_count": 19786,
+    "following_count": 1811,
+    "created_at": "2025-02-26T21:52:18.874758+00:00"
+  },
+  {
+    "username": "rus_criminal",
+    "full_name": "Rus_criminal\ud83d\udd35",
+    "followers_count": 2951840,
+    "following_count": 224,
+    "created_at": "2025-02-26T21:52:18.55346+00:00"
+  },
+  {
+    "username": "higginsbuilt",
+    "full_name": "",
+    "followers_count": 16855,
+    "following_count": 1144,
+    "created_at": "2025-02-26T21:52:18.259617+00:00"
+  },
+  {
+    "username": "fittedgarage",
+    "full_name": "Fittedgarage@gmail.com",
+    "followers_count": 6210,
+    "following_count": 483,
+    "created_at": "2025-02-26T21:52:18.023758+00:00"
+  },
+  {
+    "username": "business_people_",
+    "full_name": "\u0411\u0418\u0417\u041d\u0415\u0421 \u0411\u041b\u041e\u0413 | \u041c\u041e\u0422\u0418\u0412\u0410\u0426\u0418\u042f | \u041d\u041e\u0412\u041e\u0421\u0422\u0418",
+    "followers_count": 3805392,
+    "following_count": 6,
+    "created_at": "2025-02-26T21:52:17.624501+00:00"
+  },
+  {
+    "username": "og_lightspeedracing_510",
+    "full_name": "Jordan San Pedro",
+    "followers_count": 3735,
+    "following_count": 3620,
+    "created_at": "2025-02-26T21:52:17.274721+00:00"
+  },
+  {
+    "username": "dash__e",
+    "full_name": "#DASHE\u0300",
+    "followers_count": 17940,
+    "following_count": 1469,
+    "created_at": "2025-02-26T21:52:16.940849+00:00"
+  }
+]
