@@ -1,34 +1,29 @@
 {
   "profiles": [
     {
-      "username": "stompgrip",
-      "is_car_profile": false,
-      "is_business_profile": true,
-      "followers_count": 5810
-    },
-    {
-      "username": "tucker.pitching",
-      "is_car_profile": false,
-      "is_business_profile": false,
-      "followers_count": 2233
-    },
-    {
-      "username": "los_fashen",
-      "is_car_profile": false,
-      "is_business_profile": true,
-      "followers_count": 13638
-    },
-    {
-      "username": "itzkirb",
+      "username": "jrs.custom.auto",
       "is_car_profile": true,
-      "is_business_profile": false,
-      "followers_count": 25671
+      "profile_type": "Company"
     },
     {
-      "username": "alejandrosirajr2k11",
-      "is_car_profile": false,
-      "is_business_profile": false,
-      "followers_count": 1102
+      "username": "detailingdynamics",
+      "is_car_profile": true,
+      "profile_type": "Company"
+    },
+    {
+      "username": "ddmtuning",
+      "is_car_profile": true,
+      "profile_type": "Company"
+    },
+    {
+      "username": "needforspeed_ny",
+      "is_car_profile": true,
+      "profile_type": "Company"
+    },
+    {
+      "username": "here_in_my_car",
+      "is_car_profile": true,
+      "profile_type": "Individual"
     }
   ]
 }

@@ -72,6 +72,24 @@ class ProfileFetcher:
         response = query.execute()
         return response.data
     
+    def get_unprocessed_profiles(self, limit=1000):
+        """
+        Fetch profiles that haven't been analyzed yet (where is_car_profile is null)
+        
+        Args:
+            limit (int): Maximum number of profiles to fetch
+        
+        Returns:
+            List[Dict[str, Any]]: List of unprocessed profile records
+        """
+        query = self.supabase.table("profiles")\
+            .select("username, full_name, followers_count, biography, following_count, created_at")\
+            .is_('is_car_profile', 'null')\
+            .limit(limit)
+        
+        response = query.execute()
+        return response.data
+    
     def get_profile_by_username(self, 
                               username: str,
                               select_columns: Optional[List[str]] = None) -> Optional[Dict[str, Any]]:

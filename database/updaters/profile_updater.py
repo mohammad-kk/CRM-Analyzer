@@ -60,7 +60,10 @@ class ProfileUpdater:
             is_car = is_car.lower() == 'true'
             
         profile_type = profile_analysis.get('profile_type', 'unknown')
-        if not profile_type:
+        if profile_type:
+            profile_type = profile_type.lower()
+        valid_types = ['individual', 'company', 'car page', 'unknown']
+        if not profile_type or profile_type.lower() not in valid_types:
             profile_type = 'unknown'
             
         return {
